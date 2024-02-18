@@ -30,24 +30,24 @@ I'm Gabriel, a recent Physics graduate from JKU Linz, Upper Austria, currently d
 
 ## 💼 Skills
 
-![]("https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo")
+<img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"/>
 <img width="12" />
-![]("https://img.shields.io/badge/Code-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo")
+<img src="https://img.shields.io/badge/Code-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"/>
 
 <br>
 
 <div align="left">
-![]("https://img.shields.io/badge/OS-Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="40" alt="fedora logo")
+<img src="https://img.shields.io/badge/OS-Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="40" alt="fedora logo"/>
   <img width="12" />
-![]("https://img.shields.io/badge/Tools-Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="40" alt="firefox logo")
+<img src="https://img.shields.io/badge/Tools-Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="40" alt="firefox logo"/>
   <img width="12" />
-![]("https://img.shields.io/badge/Tools-Podman-892CA0?logo=podman&logoColor=white&style=for-the-badge" height="40" alt="podman logo")
+<img src="https://img.shields.io/badge/Tools-Podman-892CA0?logo=podman&logoColor=white&style=for-the-badge" height="40" alt="podman logo"/>
   <img width="12" />
-![]("https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo")
+<img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"/>
   <img width="12" />
-![]("https://img.shields.io/badge/Tools-Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="40" alt="blender logo")
+<img src="https://img.shields.io/badge/Tools-Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="40" alt="blender logo"/>
   <img width="12" />
-![]("https://img.shields.io/badge/Tools-LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" height="40" alt="latex logo")
+<img src="https://img.shields.io/badge/Tools-LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" height="40" alt="latex logo"/>
 </div>
 <br>
 <div align="center">
